@@ -15,6 +15,10 @@ Design Patterns
 Some Resources that I found (untested for now):
 https://www.reddit.com/r/learnpython/comments/18eaakp/any_good_resource_on_design_patterns_with/
 
+
+Design Patterns
 https://python-patterns.guide/
 
+Folder Structure and Writing Guide
+https://docs.python-guide.org/writing/structure/
 Let's do this!
