@@ -17,6 +17,7 @@ Design Patterns
 
 Probably as a first pass, we'll build: 
 LRU Cache
+LFU Cache
 
 
 Some Resources that I found (untested for now):
